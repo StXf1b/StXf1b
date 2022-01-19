@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Adrian
+- 👀 I’m interested in Web developing
+- 🌱 I’m currently learning full stack developing
+- 📫 Reach me at adrian.toma006@gmail.com
